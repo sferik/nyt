@@ -1,0 +1,15 @@
+body {
+  background-color: #f6f6f6;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+ol {
+  font-size: 76px;
+  font-family: 'Avenir Next Condensed', 'Helvetica Neue Condensed', 'Arial Narrow', Avenir, 'Helvetica Neue', 'Arial Narrow', sans-serif;
+  list-style-type: none;
+}
